@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\QuanLyNhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\dshoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB8A99E-B7B1-4A6F-9375-FC58805EF6C8}|..\\GUI\\GUI.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\gui\\fm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB8A99E-B7B1-4A6F-9375-FC58805EF6C8}|..\\GUI\\GUI.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\gui\\fm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\dsnhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\dskhachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\sqlconnectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EEED4-0FF6-4707-A15F-A7DA13F2B48A}|..\\BLL\\BLL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEEC0CB-B6D7-4BC0-B00F-5E21935E96CD}|..\\DTO\\DTO.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dto\\taikhoannhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\dskhuyenmaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EEED4-0FF6-4707-A15F-A7DA13F2B48A}|..\\BLL\\BLL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\bll\\dsnhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52791E-28C8-45F5-8DB1-472017468257}|..\\DAL\\DAL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dal\\dsnhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEEC0CB-B6D7-4BC0-B00F-5E21935E96CD}|..\\DTO\\DTO.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\dto\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EEED4-0FF6-4707-A15F-A7DA13F2B48A}|..\\BLL\\BLL.csproj|c:\\users\\admin\\downloads\\dbms\\nhom06_baocao_quanlynhahang\\nhom06_quanlynhahang_winform\\bll\\dsmonanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hung_WinForm\\GUI\\FM_Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hung_WinForm\\GUI\\UC_DangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hung_WinForm\\DAL\\DSXuatKhoDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hung_WinForm\\DAL\\DSKhuyenMaiDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\hung_winform\\gui\\fm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DSNhanVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSNhanVienDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DSNhanVienDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSNhanVienDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DSNhanVienDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:50:27.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FM_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\GUI\\FM_Main.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\FM_Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\GUI\\FM_Main.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\FM_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:50.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FM_Main.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\GUI\\FM_Main.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\FM_Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\GUI\\FM_Main.cs",
+              "RelativeToolTip": "..\\GUI\\FM_Main.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:56.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoanNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DTO\\TaiKhoanNhanVien.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\TaiKhoanNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DTO\\TaiKhoanNhanVien.cs",
+              "RelativeToolTip": "..\\DTO\\TaiKhoanNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:43:44.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSHoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSHoaDonDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DSHoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSHoaDonDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DSHoaDonDAL.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:41:38.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaiKhoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\TaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\TaiKhoanDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\TaiKhoanDAL.cs",
+              "RelativeToolTip": "..\\DAL\\TaiKhoanDAL.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:42:24.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "..\\BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:06:45.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DSKhuyenMaiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSKhuyenMaiDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DSKhuyenMaiDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSKhuyenMaiDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DSKhuyenMaiDAL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:41:41.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DSKhachHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSKhachHangDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DSKhachHangDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSKhachHangDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DSKhachHangDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:04:12.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlConnectionData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\SqlConnectionData.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\SqlConnectionData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\SqlConnectionData.cs",
+              "RelativeToolTip": "..\\DAL\\SqlConnectionData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:35:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DSNhaCungCapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\BLL\\DSNhaCungCapBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DSNhaCungCapBLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\BLL\\DSNhaCungCapBLL.cs",
+              "RelativeToolTip": "..\\BLL\\DSNhaCungCapBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:40:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DSNhaCungCapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSNhaCungCapDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DSNhaCungCapDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DAL\\DSNhaCungCapDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DSNhaCungCapDAL.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:37:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DTO\\MonAn.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\MonAn.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\DTO\\MonAn.cs",
+              "RelativeToolTip": "..\\DTO\\MonAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:40:22.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DSMonAnBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\BLL\\DSMonAnBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DSMonAnBLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\dbms\\NHOM06_BaoCao_QuanLyNhaHang\\NHOM06_QuanLyNhaHang_Winform\\BLL\\DSMonAnBLL.cs",
+              "RelativeToolTip": "..\\BLL\\DSMonAnBLL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:39:58.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_DangNhap.cs",
+              "DocumentMoniker": "D:\\Hung_WinForm\\GUI\\UC_DangNhap.cs",
+              "ToolTip": "D:\\Hung_WinForm\\GUI\\UC_DangNhap.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:46:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FM_Main.cs",
+              "DocumentMoniker": "D:\\Hung_WinForm\\GUI\\FM_Main.cs",
+              "ToolTip": "D:\\Hung_WinForm\\GUI\\FM_Main.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:30:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DSXuatKhoDAL.cs",
+              "DocumentMoniker": "D:\\Hung_WinForm\\DAL\\DSXuatKhoDAL.cs",
+              "ToolTip": "D:\\Hung_WinForm\\DAL\\DSXuatKhoDAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:20:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DSKhuyenMaiDAL.cs",
+              "DocumentMoniker": "D:\\Hung_WinForm\\DAL\\DSKhuyenMaiDAL.cs",
+              "ToolTip": "D:\\Hung_WinForm\\DAL\\DSKhuyenMaiDAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:43:00.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FM_Main.cs [Design]",
+              "DocumentMoniker": "D:\\Hung_WinForm\\GUI\\FM_Main.cs",
+              "ToolTip": "D:\\Hung_WinForm\\GUI\\FM_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:30:21.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
